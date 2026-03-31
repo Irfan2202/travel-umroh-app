@@ -81,10 +81,11 @@ Proyek ini sedang dalam tahap pengembangan aktif. Saya membagikan progres harian
 - **Styling**: Tailwind CSS
 
 ## 📋 Rencana Pengembangan (Roadmap)
-- [ ] **Fase 1**: Pondasi & Manajemen Paket (Done)
-- [ ] **Fase 2**: Manajemen Jamaah & Berkas (In Progress)
-- [ ] **Fase 3**: Sistem Pembayaran & Verifikasi Finance
-- [ ] **Fase 4**: Landing Page & Katalog Publik
+- [x] **Fase 1**: Pondasi & RBAC (Public)
+- [x] **Fase 2**: Manajemen Paket (Public)
+- [ ] **Fase 3**: Manajemen Jamaah (Internal/Private)
+- [ ] **Fase 4**: Manajemen Dokumen (Internal/Private)
+- [ ] **Fase 5**: Sistem Keuangan & Verifikasi (Internal/Private)
 
 ## ⚙️ Instalasi (Development)
 1. Clone repositori:
