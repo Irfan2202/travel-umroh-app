@@ -57,3 +57,40 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # travel-umroh-app
+# 🕋 TravelUmrohApp (Umroh Management System)
+
+TravelUmrohApp adalah platform manajemen operasional travel umroh yang dirancang untuk menyederhanakan proses administrasi, mulai dari pengelolaan paket, pendataan jamaah, hingga verifikasi pembayaran.
+
+Dibuat dengan fokus pada efisiensi admin dan akurasi data menggunakan ekosistem TALL Stack (Tailwind, Alpine.js, Laravel, Livewire).
+
+## 🚀 Status Proyek: Build in Public (Day 3/30)
+Proyek ini sedang dalam tahap pengembangan aktif. Saya membagikan progres harian sebagai bagian dari perjalanan belajar dan membangun produk yang *production-ready*.
+
+### ✅ Fitur yang Sudah Selesai:
+- **Authentication & Security**: Implementasi Role-Based Access Control (RBAC) menggunakan Filament Shield (Roles: Super Admin, Staff, Finance).
+- **Package Management**: 
+    - Input harga dinamis (Quad, Triple, Double).
+    - Manajemen kuota otomatis.
+    - Logika jadwal keberangkatan dan kepulangan otomatis.
+- **UI/UX**: Dashboard admin yang bersih dan responsif menggunakan Filament v3.
+
+### 🛠 Tech Stack:
+- **Framework**: Laravel 11
+- **Admin Panel**: Filament v3
+- **Database**: MySQL / PostgreSQL
+- **Styling**: Tailwind CSS
+
+## 📋 Rencana Pengembangan (Roadmap)
+- [ ] **Fase 1**: Pondasi & Manajemen Paket (Done)
+- [ ] **Fase 2**: Manajemen Jamaah & Berkas (In Progress)
+- [ ] **Fase 3**: Sistem Pembayaran & Verifikasi Finance
+- [ ] **Fase 4**: Landing Page & Katalog Publik
+
+## ⚙️ Instalasi (Development)
+1. Clone repositori:
+   ```bash
+   git clone [https://github.com/username/travel-umroh-app.git](https://github.com/username/travel-umroh-app.git)
+
+
+
+
